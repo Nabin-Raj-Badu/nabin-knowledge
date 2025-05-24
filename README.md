@@ -1,2 +1,2 @@
 # nabin-knowledge
-This is my first Git Tepository
+This is my first Git Repository
